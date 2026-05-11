@@ -1,7 +1,7 @@
 # 🚘 License Plate Recognition with OpenCV
 
 An intelligent computer vision system built using Haar Cascade classifiers and OpenCV to automatically detect vehicles and localize license plates from image data.  
-This project was developed as part of a Data Science internship, with a focus on real-world application in smart surveillance and intelligent transportation systems.
+This project was developed with a focus on real-world application in smart surveillance and intelligent transportation systems.
 
 ---
 
